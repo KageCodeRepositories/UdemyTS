@@ -2,6 +2,13 @@
 
 ## Install Software
 
+Here you can find all the important information that will be covered in the following.
+NodeJs: https://nodejs.org/en
+VSCode Typescript guide: https://code.visualstudio.com/docs/typescript/typescript-compiling
+
+Github Repository: https://github.com/franneck94/UdemyTS
+Useful Shortcuts in VSCode: https://github.com/franneck94/VSCodeGuide/blob/master/usefulShortcuts.md
+
 - npm
 - npm install -g typescript
 - npm install -g lite-server
