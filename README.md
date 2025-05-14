@@ -89,3 +89,6 @@ tsc -init
     }
 }
 ```
+Visual Studio Code Extensions:
+- Typescript Extension Pack
+- Coding Tools Extension Pack
